@@ -21,9 +21,9 @@ a, a:before { text-decoration: none; color: #384a9a; outline: none; transition: 
 a:hover { color: #469cb9}
 img { height: auto; max-width: 100%;}
 p { font-size: 1.2rem; line-height: 1.5em; margin-bottom: 2em; color: #777; }
-h1,h2,h3,h4,h5,h6 { font-weight: 300; line-height: 1.2em; color: #343433; margin-bottom: 0.8em; -webkit-font-smoothing: subpixel-antialiased; letter-spacing: -0.025em;}
+/* h1,h2,h3,h4,h5,h6 { font-weight: 300; line-height: 1.2em; color: #343433; margin-bottom: 0.8em; -webkit-font-smoothing: subpixel-antialiased; letter-spacing: -0.025em;} */
 h1 { font-size: 4vw; font-weight: 600; }
-h2 { font-size: 2.8vw; margin-bottom: 1.5em;}
+h2 { font-size: 2.8vw; font-weight: 600;}
 h3 { font-size: 2rem; font-weight: 600; }
 h4 { font-size: 1.6rem; font-weight: 600; }
 

@@ -20,10 +20,12 @@ body { background: #f2f2f2; font-family: -apple-system,BlinkMacSystemFont,"Segoe
 a, a:before { text-decoration: none; color: #384a9a; outline: none; transition: all 0.3s ease; }
 a:hover { color: #469cb9}
 img { height: auto; max-width: 100%;}
-p { font-size: 1.2rem; line-height: 1.5em; margin-bottom: 2em; color: #777; }
+p { font-size: 1.2rem; line-height: 1.5em; margin-bottom: 1em; color: #777; }
+code {background-color: #eee; border: 1px solid #999; display: block; padding: 5px;}
+li {padding-left: 15px; margin-bottom: 0.5em; font-size: 1.1rem;}
 h1,h2,h3,h4,h5,h6 { font-weight: 300; line-height: 1.2em; color: #343433; margin-bottom: 0.8em; -webkit-font-smoothing: subpixel-antialiased; letter-spacing: -0.025em;}
 h1 { font-size: 4vw; font-weight: 600; }
-h2 { font-size: 2.8vw; margin-bottom: 1.5em;}
+h2 { font-size: 2.8vw; font-weight: 600;}
 h3 { font-size: 2rem; font-weight: 600; }
 h4 { font-size: 1.6rem; font-weight: 600; }
 
